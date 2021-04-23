@@ -53,7 +53,7 @@ public class ReadConfig {
 		String iepath = pro.getProperty("iepath");
 	    return iepath;
 	}
-	
+	//method for firefox path
 	public String getFirefoxPath() {
 		
 		String firefoxpath = pro.getProperty("firefoxpath");
